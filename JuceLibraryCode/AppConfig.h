@@ -10,7 +10,7 @@
     Any commented-out settings will assume their default values.
 
 */
-
+ 
 #ifndef __JUCE_APPCONFIG_X3FB1U__
 #define __JUCE_APPCONFIG_X3FB1U__
 
