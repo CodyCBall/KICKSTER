@@ -1,3 +1,3 @@
 # KICKSTER
 
-A synthesizer specialized in creating tuned bassdrums.
+A single oscillator synthesizer with that specializes in creating tuned kick drums.
