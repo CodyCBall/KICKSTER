@@ -3,7 +3,7 @@
 
 #include "../JuceLibraryCode/JuceHeader.h"
 
-
+ 
 class MainContentComponent   : public AudioAppComponent,
 public Slider::Listener ,HighResolutionTimer, public Button::Listener
 {
