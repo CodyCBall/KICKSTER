@@ -347,7 +347,7 @@ public:
         envRec.addRectangle(50, 300, 150, 150);         //envelope section rectangle
         g.fillPath(envRec);
         
-        
+         
         g.setColour(Colours::black);
         Path mixerBorder;
         mixerBorder.addRectangle(497, 297, 156, 156);       //border of mixer section rectangle
