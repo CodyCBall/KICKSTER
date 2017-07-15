@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+ 
 <JUCERPROJECT id="X3fb1U" name="KICKSTER" projectType="guiapp" version="1.0.0"
               bundleIdentifier="com.yourcompany.KICKSTER" includeBinaryInAppConfig="1"
               jucerVersion="4.3.0">
