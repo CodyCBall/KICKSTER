@@ -1,3 +1,3 @@
 # KICKSTER
 
-A single oscillator synthesizer that specializes in creating tuned kick drums.
+A stand-alone single oscillator synthesizer that specializes in creating tuned kick drums.
